@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_modify_schedule_item">Edit Schedule</string>
+    <string name="button_ok">OK</string>
+    <string name="modify_item_hint">Write message</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="button_cancel">Cancel</string>
+
+</resources>
